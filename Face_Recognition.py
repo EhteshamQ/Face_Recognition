@@ -1,7 +1,7 @@
 import cv2
 import sys
 
-# user Args
+# Execute using CMD with filename and image name
 imagePath = sys.argv[1]
 cascPath = 'haarcascade_frontalface_default.xml'
 
