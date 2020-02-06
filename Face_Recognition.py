@@ -2,7 +2,7 @@ import cv2
 import sys
 
 # Execute using CMD with filename and image name
-imagePath = sys.argv[1]
+imagePath = 'Happy.jpg'
 cascPath = 'haarcascade_frontalface_default.xml'
 
 # classifier (haar Cascade)
